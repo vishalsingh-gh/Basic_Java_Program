@@ -10,7 +10,7 @@ public class Calculate {
 
         int sum= Num1+Num2;
         int sub= Num1-Num2;
-        int mul= Num1*Num2;
+        int mult= Num1*Num2;
         int div= Num1/Num2;
         int mod= Num1%Num2;
 
